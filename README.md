@@ -1,4 +1,4 @@
-# Thailand-Postal-code
+# Thailand-Postal-Code
 List of Province/District/Postal Code in Thailand.
 
 ## Source
